@@ -1,0 +1,3 @@
+FROM busybox
+RUN echo "build docker image"
+CMD echo "Hello ,from docker"
